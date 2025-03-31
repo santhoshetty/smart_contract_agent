@@ -11,6 +11,8 @@ An intelligent system that automatically generates contracts by extracting infor
 - Field validation and formatting
 - Optional human-in-the-loop review
 
+![Samrt Contract Populator Demo](demo.gif)
+
 ## Setup
 
 1. Clone the repository
